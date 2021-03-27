@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reacti-Datanouto/static/css/main.3e8f44c2.chunk.css",
+    "main.js": "/Reacti-Datanouto/static/js/main.b2b476e3.chunk.js",
+    "main.js.map": "/Reacti-Datanouto/static/js/main.b2b476e3.chunk.js.map",
+    "runtime-main.js": "/Reacti-Datanouto/static/js/runtime-main.ebe3e349.js",
+    "runtime-main.js.map": "/Reacti-Datanouto/static/js/runtime-main.ebe3e349.js.map",
+    "static/js/2.09233bf1.chunk.js": "/Reacti-Datanouto/static/js/2.09233bf1.chunk.js",
+    "static/js/2.09233bf1.chunk.js.map": "/Reacti-Datanouto/static/js/2.09233bf1.chunk.js.map",
+    "index.html": "/Reacti-Datanouto/index.html",
+    "static/css/main.3e8f44c2.chunk.css.map": "/Reacti-Datanouto/static/css/main.3e8f44c2.chunk.css.map",
+    "static/js/2.09233bf1.chunk.js.LICENSE.txt": "/Reacti-Datanouto/static/js/2.09233bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe3e349.js",
+    "static/js/2.09233bf1.chunk.js",
+    "static/css/main.3e8f44c2.chunk.css",
+    "static/js/main.b2b476e3.chunk.js"
+  ]
+}
